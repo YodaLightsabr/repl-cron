@@ -1,0 +1,22 @@
+{
+  "name": "repl-cron",
+  "version": "1.0.0",
+  "description": "Keep your repls alive without UptimeRobot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YodaLightsabr/repl-cron.git"
+  },
+  "keywords": [
+    "replit"
+  ],
+  "author": "YodaLightsabr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YodaLightsabr/repl-cron/issues"
+  },
+  "homepage": "https://github.com/YodaLightsabr/repl-cron#readme"
+}
